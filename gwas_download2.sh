@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for pub in 35115690 35115689
+for pub in #add in pubmedids here
 do
 
   #Make directory
